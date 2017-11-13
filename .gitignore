@@ -26,3 +26,4 @@ nbdist/
 
 ### Kotlin ###
 /out/
+/bin/
